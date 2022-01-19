@@ -19,7 +19,7 @@ sites:
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /service-uptime
+  baseUrl: /service-uptime-beta
   logoUrl: https://cdn.mybigday.com.tw/bricks/bricks.png
   name: BRICKS Status
   introTitle: ""
