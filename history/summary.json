@@ -60,9 +60,9 @@
     "url": "https://bothub-beta.bricks.tw",
     "icon": "https://favicons.githubusercontent.com/bothub-beta.bricks.tw",
     "slug": "bot-hub-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 833,
     "timeMonth": 1160,
     "timeYear": 1048,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-06": 0
+    }
   },
   {
     "name": "Media Flow BETA",
