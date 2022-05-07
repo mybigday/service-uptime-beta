@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 708,
-    "timeDay": 452,
-    "timeWeek": 699,
-    "timeMonth": 717,
-    "timeYear": 708,
+    "time": 707,
+    "timeDay": 702,
+    "timeWeek": 718,
+    "timeMonth": 720,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2022-03-03": 9
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 696,
-    "timeDay": 454,
-    "timeWeek": 657,
-    "timeMonth": 672,
+    "timeDay": 652,
+    "timeWeek": 671,
+    "timeMonth": 675,
     "timeYear": 696,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 952,
-    "timeDay": 595,
-    "timeWeek": 787,
-    "timeMonth": 831,
-    "timeYear": 952,
+    "time": 955,
+    "timeDay": 1339,
+    "timeWeek": 874,
+    "timeMonth": 852,
+    "timeYear": 955,
     "dailyMinutesDown": {}
   },
   {
@@ -61,19 +61,17 @@
     "icon": "https://favicons.githubusercontent.com/bothub-beta.bricks.tw",
     "slug": "bot-hub-beta",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 1056,
-    "timeDay": 1250,
-    "timeWeek": 965,
-    "timeMonth": 1183,
-    "timeYear": 1056,
-    "dailyMinutesDown": {
-      "2022-05-06": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1055,
+    "timeDay": 1445,
+    "timeWeek": 985,
+    "timeMonth": 1065,
+    "timeYear": 1055,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Media Flow BETA",
@@ -87,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 664,
-    "timeDay": 515,
-    "timeWeek": 662,
-    "timeMonth": 640,
+    "timeDay": 658,
+    "timeWeek": 677,
+    "timeMonth": 643,
     "timeYear": 664,
     "dailyMinutesDown": {}
   }
