@@ -6,6 +6,11 @@ sites:
   - name: BRICKS BETA
     method: HEAD
     url: https://display-beta.bricks.tools
+  - name: BRICKS Device BETA
+    method: HEAD
+    url: https://device-beta.bricks.tools
+    expectedStatusCodes:
+      - 404
   - name: BRICKS Bank BETA
     url: https://bank-beta.bricks.tools/update
   - name: MyBigDay Group BETA
@@ -14,6 +19,11 @@ sites:
     url: https://bothub-beta.bricks.tw
   - name: Media Flow BETA
     url: https://media-beta.bricks.tools
+    expectedStatusCodes:
+      - 404
+  - name: Activity Log BETA
+    method: HEAD
+    url: https://activity-beta.bricks.tools
     expectedStatusCodes:
       - 404
 
