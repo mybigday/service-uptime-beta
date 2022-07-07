@@ -7,7 +7,6 @@ sites:
     method: HEAD
     url: https://display-beta.bricks.tools
   - name: BRICKS Device BETA
-    method: HEAD
     url: https://device-beta.bricks.tools
     expectedStatusCodes:
       - 404
@@ -22,7 +21,6 @@ sites:
     expectedStatusCodes:
       - 404
   - name: Activity Log BETA
-    method: HEAD
     url: https://activity-beta.bricks.tools
     expectedStatusCodes:
       - 404
