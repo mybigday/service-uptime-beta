@@ -114,19 +114,19 @@
     "url": "https://activity-beta.bricks.tools",
     "icon": "https://favicons.githubusercontent.com/activity-beta.bricks.tools",
     "slug": "activity-log-beta",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 545,
-    "timeWeek": 587,
-    "timeMonth": 587,
-    "timeYear": 587,
+    "status": "up",
+    "uptime": "99.12%",
+    "uptimeDay": "96.87%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.12%",
+    "time": 592,
+    "timeDay": 564,
+    "timeWeek": 592,
+    "timeMonth": 592,
+    "timeYear": 592,
     "dailyMinutesDown": {
-      "2022-07-11": 0
+      "2022-07-11": 45
     }
   }
 ]
