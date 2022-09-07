@@ -11,7 +11,9 @@ sites:
     expectedStatusCodes:
       - 404
   - name: BRICKS Bank BETA
-    url: https://bank-beta.bricks.tools/update
+    url: https://bank.bricks.tools/api/not-found
+    expectedStatusCodes:
+      - 404
   - name: MyBigDay Group BETA
     url: https://group-beta.mybigday.com.tw
   - name: BotHub BETA
