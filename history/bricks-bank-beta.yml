@@ -1,7 +1,7 @@
-url: https://bank-beta.bricks.tools/update
+url: https://bank.bricks.tools/api/not-found
 status: up
-code: 200
-responseTime: 461
-lastUpdated: 2022-09-06T23:02:05.665Z
+code: 404
+responseTime: 1070
+lastUpdated: 2022-09-07T06:04:21.519Z
 startTime: Wed Jan 19 2022 23:36:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
