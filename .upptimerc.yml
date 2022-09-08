@@ -11,7 +11,7 @@ sites:
     expectedStatusCodes:
       - 404
   - name: BRICKS Bank BETA
-    url: https://bank.bricks.tools/api/not-found
+    url: https://bank-beta.bricks.tools/api/not-found
     expectedStatusCodes:
       - 404
   - name: MyBigDay Group BETA
