@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 678,
     "timeDay": 864,
-    "timeWeek": 687,
+    "timeWeek": 693,
     "timeMonth": 659,
     "timeYear": 678,
     "dailyMinutesDown": {
@@ -25,18 +25,19 @@
     "url": "https://device-beta.bricks.tools",
     "icon": "https://favicons.githubusercontent.com/device-beta.bricks.tools",
     "slug": "bricks-device-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 726,
-    "timeDay": 857,
-    "timeWeek": 658,
-    "timeMonth": 646,
-    "timeYear": 726,
+    "time": 738,
+    "timeDay": 1262,
+    "timeWeek": 764,
+    "timeMonth": 676,
+    "timeYear": 738,
     "dailyMinutesDown": {
+      "2022-09-14": 0,
       "2022-08-04": 20
     }
   },
@@ -53,7 +54,7 @@
     "uptimeYear": "100.00%",
     "time": 671,
     "timeDay": 650,
-    "timeWeek": 707,
+    "timeWeek": 662,
     "timeMonth": 639,
     "timeYear": 671,
     "dailyMinutesDown": {}
@@ -71,7 +72,7 @@
     "uptimeYear": "100.00%",
     "time": 966,
     "timeDay": 1035,
-    "timeWeek": 908,
+    "timeWeek": 910,
     "timeMonth": 972,
     "timeYear": 966,
     "dailyMinutesDown": {}
@@ -89,7 +90,7 @@
     "uptimeYear": "100.00%",
     "time": 967,
     "timeDay": 847,
-    "timeWeek": 868,
+    "timeWeek": 864,
     "timeMonth": 948,
     "timeYear": 967,
     "dailyMinutesDown": {}
@@ -107,7 +108,7 @@
     "uptimeYear": "100.00%",
     "time": 647,
     "timeDay": 932,
-    "timeWeek": 682,
+    "timeWeek": 640,
     "timeMonth": 655,
     "timeYear": 647,
     "dailyMinutesDown": {}
@@ -125,7 +126,7 @@
     "uptimeYear": "99.95%",
     "time": 636,
     "timeDay": 660,
-    "timeWeek": 643,
+    "timeWeek": 638,
     "timeMonth": 648,
     "timeYear": 636,
     "dailyMinutesDown": {
