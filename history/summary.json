@@ -64,9 +64,9 @@
     "url": "https://group-beta.mybigday.com.tw",
     "icon": "https://icons.duckduckgo.com/ip3/group-beta.mybigday.com.tw.ico",
     "slug": "my-big-day-group-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
@@ -76,6 +76,7 @@
     "timeMonth": 1071,
     "timeYear": 965,
     "dailyMinutesDown": {
+      "2022-10-06": 0,
       "2022-10-04": 75
     }
   },
