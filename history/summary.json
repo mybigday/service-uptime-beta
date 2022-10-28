@@ -4,18 +4,19 @@
     "url": "https://display-beta.bricks.tools",
     "icon": "https://icons.duckduckgo.com/ip3/display-beta.bricks.tools.ico",
     "slug": "bricks-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 673,
     "timeDay": 658,
     "timeWeek": 667,
-    "timeMonth": 624,
+    "timeMonth": 629,
     "timeYear": 673,
     "dailyMinutesDown": {
+      "2022-10-28": 0,
       "2022-08-13": 16,
       "2022-03-03": 9
     }
