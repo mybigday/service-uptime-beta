@@ -47,19 +47,19 @@
     "url": "https://bank-beta.bricks.tools/api/not-found",
     "icon": "https://icons.duckduckgo.com/ip3/bank-beta.bricks.tools.ico",
     "slug": "bricks-bank-beta",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 664,
-    "timeDay": 557,
+    "timeDay": 573,
     "timeWeek": 608,
-    "timeMonth": 622,
+    "timeMonth": 621,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2022-12-02": 0
+      "2022-12-02": 18
     }
   },
   {
