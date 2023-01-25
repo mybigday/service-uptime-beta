@@ -67,10 +67,10 @@
     "url": "https://group-beta.mybigday.com.tw",
     "icon": "https://icons.duckduckgo.com/ip3/group-beta.mybigday.com.tw.ico",
     "slug": "my-big-day-group-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 961,
@@ -79,6 +79,7 @@
     "timeMonth": 880,
     "timeYear": 962,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-10-04": 75
     }
   },
@@ -87,9 +88,9 @@
     "url": "https://bothub-beta.bricks.tw",
     "icon": "https://icons.duckduckgo.com/ip3/bothub-beta.bricks.tw.ico",
     "slug": "bot-hub-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -99,6 +100,7 @@
     "timeMonth": 712,
     "timeYear": 903,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-10-04": 75
     }
   },
