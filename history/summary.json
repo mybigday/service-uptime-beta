@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 687,
-    "timeDay": 584,
-    "timeWeek": 1161,
-    "timeMonth": 749,
-    "timeYear": 690,
+    "timeDay": 724,
+    "timeWeek": 593,
+    "timeMonth": 746,
+    "timeYear": 691,
     "dailyMinutesDown": {
       "2022-10-28": 15,
       "2022-08-13": 16
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 692,
-    "timeDay": 601,
-    "timeWeek": 611,
-    "timeMonth": 614,
+    "timeDay": 728,
+    "timeWeek": 631,
+    "timeMonth": 615,
     "timeYear": 692,
     "dailyMinutesDown": {
       "2022-09-14": 24,
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 659,
-    "timeDay": 709,
-    "timeWeek": 560,
-    "timeMonth": 621,
+    "timeDay": 687,
+    "timeWeek": 574,
+    "timeMonth": 622,
     "timeYear": 656,
     "dailyMinutesDown": {
       "2022-12-02": 18
@@ -73,8 +73,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 933,
-    "timeDay": 1362,
-    "timeWeek": 764,
+    "timeDay": 890,
+    "timeWeek": 781,
     "timeMonth": 744,
     "timeYear": 942,
     "dailyMinutesDown": {
@@ -93,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 873,
-    "timeDay": 611,
-    "timeWeek": 614,
+    "timeDay": 868,
+    "timeWeek": 654,
     "timeMonth": 693,
-    "timeYear": 864,
+    "timeYear": 865,
     "dailyMinutesDown": {
       "2022-10-04": 75
     }
@@ -113,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 663,
-    "timeDay": 604,
+    "timeDay": 699,
     "timeWeek": 561,
-    "timeMonth": 627,
+    "timeMonth": 629,
     "timeYear": 663,
     "dailyMinutesDown": {}
   },
@@ -131,9 +131,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 682,
-    "timeDay": 612,
-    "timeWeek": 557,
-    "timeMonth": 660,
+    "timeDay": 763,
+    "timeWeek": 575,
+    "timeMonth": 654,
     "timeYear": 682,
     "dailyMinutesDown": {
       "2022-07-11": 45
