@@ -1,7 +1,7 @@
-url: https://activity-beta.bricks.tools
+url: https://activity-log-beta.bricks.tools/health
 status: up
-code: 404
-responseTime: 672
-lastUpdated: 2023-08-07T23:02:11.859Z
+code: 200
+responseTime: 386
+lastUpdated: 2023-08-08T07:52:44.837Z
 startTime: Thu Jul 07 2022 21:50:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
