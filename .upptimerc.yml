@@ -23,9 +23,7 @@ sites:
     expectedStatusCodes:
       - 404
   - name: Activity Log BETA
-    url: https://activity-beta.bricks.tools
-    expectedStatusCodes:
-      - 404
+    url: https://activity-log-beta.bricks.tools/health
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
