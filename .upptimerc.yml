@@ -4,12 +4,15 @@ repo: service-uptime-beta
 # Add your sites here
 sites:
   - name: BRICKS BETA
-    method: HEAD
-    url: https://display-beta.bricks.tools
+    method: POST
+    headers:
+      - "X-HEALTHCHECK-SECRET: $X_HEALTHCHECK_SECRET"
+    url: https://display-beta.bricks.tools/api/workspace-public-health-check
   - name: BRICKS Device BETA
-    url: https://device-beta.bricks.tools
-    expectedStatusCodes:
-      - 404
+    method: POST
+    headers:
+      - "X-HEALTHCHECK-SECRET: $X_HEALTHCHECK_SECRET"
+    url: https://device-beta.bricks.tools/api/public-health-check
   - name: BRICKS Bank BETA
     url: https://bank-beta.bricks.tools/api/not-found
     expectedStatusCodes:
