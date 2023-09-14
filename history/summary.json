@@ -29,12 +29,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 626,
     "timeDay": 377,
     "timeWeek": 469,
     "timeMonth": 470,
-    "timeYear": 606,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2023-05-08": 23,
       "2023-05-07": 2
@@ -65,18 +65,19 @@
     "url": "https://group-beta.mybigday.com.tw",
     "icon": "https://icons.duckduckgo.com/ip3/group-beta.mybigday.com.tw.ico",
     "slug": "my-big-day-group-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 943,
+    "time": 944,
     "timeDay": 483,
     "timeWeek": 587,
     "timeMonth": 794,
     "timeYear": 939,
     "dailyMinutesDown": {
+      "2023-09-14": 1,
       "2022-10-04": 75
     }
   },
