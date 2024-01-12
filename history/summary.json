@@ -128,9 +128,9 @@
     "url": "https://activity-log-beta.bricks.tools/health",
     "icon": "https://icons.duckduckgo.com/ip3/activity-log-beta.bricks.tools.ico",
     "slug": "activity-log-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -140,6 +140,7 @@
     "timeMonth": 277,
     "timeYear": 503,
     "dailyMinutesDown": {
+      "2024-01-12": 0,
       "2023-05-31": 280
     }
   }
