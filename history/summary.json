@@ -50,19 +50,19 @@
     "url": "https://bank-beta.bricks.tools/api/not-found",
     "icon": "https://icons.duckduckgo.com/ip3/bank-beta.bricks.tools.ico",
     "slug": "bricks-bank-beta",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 530,
-    "timeDay": 337,
-    "timeWeek": 542,
-    "timeMonth": 511,
-    "timeYear": 515,
+    "time": 531,
+    "timeDay": 582,
+    "timeWeek": 578,
+    "timeMonth": 520,
+    "timeYear": 516,
     "dailyMinutesDown": {
-      "2024-06-28": 0
+      "2024-06-28": 18
     }
   },
   {
@@ -94,7 +94,7 @@
     "uptime": "97.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "17.06%",
+    "uptimeMonth": "17.01%",
     "uptimeYear": "93.08%",
     "time": 911,
     "timeDay": 0,
@@ -102,7 +102,7 @@
     "timeMonth": 1379,
     "timeYear": 919,
     "dailyMinutesDown": {
-      "2024-06-28": 699,
+      "2024-06-28": 717,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
