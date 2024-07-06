@@ -102,7 +102,7 @@
     "timeMonth": 0,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2024-07-06": 451,
+      "2024-07-06": 460,
       "2024-07-05": 1440,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
@@ -144,19 +144,19 @@
     "url": "https://media-beta.bricks.tools",
     "icon": "https://icons.duckduckgo.com/ip3/media-beta.bricks.tools.ico",
     "slug": "media-flow-beta",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 560,
-    "timeDay": 756,
-    "timeWeek": 2571,
-    "timeMonth": 1163,
+    "timeDay": 640,
+    "timeWeek": 2366,
+    "timeMonth": 1143,
     "timeYear": 562,
     "dailyMinutesDown": {
-      "2024-07-06": 0
+      "2024-07-06": 9
     }
   },
   {
