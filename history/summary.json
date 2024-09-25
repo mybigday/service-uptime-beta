@@ -11,9 +11,9 @@
     "uptimeMonth": "99.34%",
     "uptimeYear": "99.87%",
     "time": 826,
-    "timeDay": 535,
-    "timeWeek": 622,
-    "timeMonth": 608,
+    "timeDay": 521,
+    "timeWeek": 602,
+    "timeMonth": 598,
     "timeYear": 941,
     "dailyMinutesDown": {
       "2024-09-09": 160,
@@ -39,10 +39,10 @@
     "uptimeMonth": "99.34%",
     "uptimeYear": "99.94%",
     "time": 547,
-    "timeDay": 540,
-    "timeWeek": 587,
-    "timeMonth": 584,
-    "timeYear": 565,
+    "timeDay": 550,
+    "timeWeek": 576,
+    "timeMonth": 588,
+    "timeYear": 566,
     "dailyMinutesDown": {
       "2024-09-09": 160,
       "2024-09-08": 130,
@@ -61,10 +61,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 521,
-    "timeDay": 537,
-    "timeWeek": 596,
-    "timeMonth": 591,
-    "timeYear": 529,
+    "timeDay": 544,
+    "timeWeek": 587,
+    "timeMonth": 596,
+    "timeYear": 530,
     "dailyMinutesDown": {
       "2024-06-28": 18
     }
@@ -81,13 +81,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 843,
-    "timeDay": 1131,
-    "timeWeek": 660,
-    "timeMonth": 636,
-    "timeYear": 780,
-    "dailyMinutesDown": {
-      "2023-09-26": 19
-    }
+    "timeDay": 644,
+    "timeWeek": 669,
+    "timeMonth": 637,
+    "timeYear": 781,
+    "dailyMinutesDown": {}
   },
   {
     "name": "BotHub BETA",
@@ -95,18 +93,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bothub-beta.bricks.tw.ico",
     "slug": "bot-hub-beta",
     "status": "down",
-    "uptime": "88.47%",
+    "uptime": "88.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "69.11%",
+    "uptimeYear": "68.83%",
     "time": 922,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 920,
+    "timeYear": 922,
     "dailyMinutesDown": {
-      "2024-09-24": 5,
+      "2024-09-25": 5,
+      "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
@@ -219,8 +218,7 @@
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
-      "2024-06-03": 1075,
-      "2023-09-26": 18
+      "2024-06-03": 1075
     }
   },
   {
@@ -235,10 +233,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 557,
-    "timeDay": 834,
-    "timeWeek": 630,
-    "timeMonth": 606,
-    "timeYear": 578,
+    "timeDay": 546,
+    "timeWeek": 634,
+    "timeMonth": 612,
+    "timeYear": 579,
     "dailyMinutesDown": {}
   },
   {
@@ -247,16 +245,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/activity-log-beta.bricks.tools.ico",
     "slug": "activity-log-beta",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.45%",
-    "time": 455,
-    "timeDay": 288,
-    "timeWeek": 304,
-    "timeMonth": 352,
-    "timeYear": 428,
+    "time": 454,
+    "timeDay": 305,
+    "timeWeek": 292,
+    "timeMonth": 356,
+    "timeYear": 429,
     "dailyMinutesDown": {
       "2024-06-15": 109,
       "2024-03-01": 18,
