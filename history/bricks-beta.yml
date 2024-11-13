@@ -1,7 +1,7 @@
 url: https://display-beta.bricks.tools/api/workspace-public-health-check
-status: down
-code: 502
-responseTime: 849
-lastUpdated: 2024-11-13T06:28:14.300Z
+status: up
+code: 200
+responseTime: 545
+lastUpdated: 2024-11-13T06:40:45.097Z
 startTime: 2022-01-19T23:36:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
