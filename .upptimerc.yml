@@ -19,8 +19,6 @@ sites:
       - 404
   - name: MyBigDay Group BETA
     url: https://group-beta.mybigday.com.tw
-  - name: BotHub BETA
-    url: https://bothub-beta.bricks.tw
   - name: Media Flow BETA
     url: https://media-beta.bricks.tools
     expectedStatusCodes:
