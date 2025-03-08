@@ -8,23 +8,35 @@ sites:
     headers:
       - "X-HEALTHCHECK-SECRET: $X_HEALTHCHECK_SECRET"
     url: https://display-beta.bricks.tools/api/workspace-public-health-check
+    assignees:
+      - jhen0409
   - name: BRICKS Device BETA
     method: POST
     headers:
       - "X-HEALTHCHECK-SECRET: $X_HEALTHCHECK_SECRET"
     url: https://device-beta.bricks.tools/api/public-health-check
-  - name: BRICKS Bank BETA
+    assignees:
+      - jhen0409
+  - name: Data Bank BETA
     url: https://bank-beta.bricks.tools/api/not-found
     expectedStatusCodes:
       - 404
-  - name: MyBigDay Group BETA
-    url: https://group-beta.mybigday.com.tw
+    assignees:
+      - jhen0409
   - name: Media Flow BETA
     url: https://media-beta.bricks.tools
     expectedStatusCodes:
       - 404
+    assignees:
+      - jhen0409
+  - name: Group (Legacy) BETA
+    url: https://group-beta.mybigday.com.tw
+    assignees:
+      - jhen0409
   - name: Activity Log BETA
     url: https://activity-log-beta.bricks.tools/health
+    assignees:
+      - hans00
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
