@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 669,
-    "timeDay": 543,
-    "timeWeek": 547,
-    "timeMonth": 591,
+    "timeDay": 527,
+    "timeWeek": 554,
+    "timeMonth": 590,
     "timeYear": 687,
     "dailyMinutesDown": {
       "2025-04-14": 23
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/device-beta.bricks.tools.ico",
     "slug": "bricks-device-beta",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 596,
-    "timeDay": 549,
-    "timeWeek": 582,
-    "timeMonth": 559,
+    "timeDay": 436,
+    "timeWeek": 562,
+    "timeMonth": 556,
     "timeYear": 597,
     "dailyMinutesDown": {
       "2025-07-18": 19,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 549,
-    "timeDay": 551,
-    "timeWeek": 537,
-    "timeMonth": 540,
-    "timeYear": 549,
+    "time": 548,
+    "timeDay": 403,
+    "timeWeek": 522,
+    "timeMonth": 536,
+    "timeYear": 548,
     "dailyMinutesDown": {}
   },
   {
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 564,
-    "timeDay": 547,
-    "timeWeek": 518,
-    "timeMonth": 522,
+    "timeDay": 428,
+    "timeWeek": 509,
+    "timeMonth": 518,
     "timeYear": 559,
     "dailyMinutesDown": {}
   },
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 909,
-    "timeDay": 460,
-    "timeWeek": 1134,
+    "time": 907,
+    "timeDay": 482,
+    "timeWeek": 1135,
     "timeMonth": 1084,
-    "timeYear": 909,
+    "timeYear": 907,
     "dailyMinutesDown": {
       "2025-07-10": 59,
       "2025-04-15": 24
@@ -108,12 +108,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.83%",
-    "time": 817,
-    "timeDay": 217,
-    "timeWeek": 264,
-    "timeMonth": 297,
-    "timeYear": 854,
+    "uptimeYear": "98.85%",
+    "time": 816,
+    "timeDay": 171,
+    "timeWeek": 259,
+    "timeMonth": 290,
+    "timeYear": 806,
     "dailyMinutesDown": {
       "2025-04-10": 16,
       "2025-03-29": 328,
@@ -132,8 +132,7 @@
       "2025-02-08": 273,
       "2025-02-07": 145,
       "2024-12-27": 506,
-      "2024-12-26": 96,
-      "2024-11-20": 1077
+      "2024-12-26": 96
     }
   }
 ]
