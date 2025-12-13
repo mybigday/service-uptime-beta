@@ -1,7 +1,7 @@
 url: https://device-beta.bricks.tools/api/public-health-check
-status: down
-code: 502
-responseTime: 830
-lastUpdated: 2025-12-13T02:10:27.638Z
+status: up
+code: 200
+responseTime: 513
+lastUpdated: 2025-12-13T02:50:33.579Z
 startTime: 2022-07-07T21:48:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
