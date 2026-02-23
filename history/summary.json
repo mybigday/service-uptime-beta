@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 660,
-    "timeDay": 355,
-    "timeWeek": 473,
-    "timeMonth": 538,
+    "timeDay": 492,
+    "timeWeek": 462,
+    "timeMonth": 536,
     "timeYear": 642,
     "dailyMinutesDown": {
       "2025-04-14": 23
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.86%",
-    "time": 592,
-    "timeDay": 512,
-    "timeWeek": 505,
-    "timeMonth": 556,
+    "time": 593,
+    "timeDay": 585,
+    "timeWeek": 514,
+    "timeMonth": 557,
     "timeYear": 592,
     "dailyMinutesDown": {
       "2026-02-01": 15,
@@ -57,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 558,
-    "timeDay": 698,
-    "timeWeek": 656,
-    "timeMonth": 562,
+    "timeDay": 493,
+    "timeWeek": 655,
+    "timeMonth": 563,
     "timeYear": 558,
     "dailyMinutesDown": {}
   },
@@ -75,9 +75,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 556,
-    "timeDay": 510,
-    "timeWeek": 496,
-    "timeMonth": 561,
+    "timeDay": 489,
+    "timeWeek": 515,
+    "timeMonth": 563,
     "timeYear": 554,
     "dailyMinutesDown": {}
   },
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 855,
-    "timeDay": 449,
-    "timeWeek": 539,
-    "timeMonth": 628,
-    "timeYear": 855,
+    "time": 854,
+    "timeDay": 508,
+    "timeWeek": 548,
+    "timeMonth": 629,
+    "timeYear": 854,
     "dailyMinutesDown": {
       "2025-07-10": 59,
       "2025-04-15": 24
@@ -114,10 +114,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.25%",
     "time": 746,
-    "timeDay": 264,
-    "timeWeek": 218,
-    "timeMonth": 311,
-    "timeYear": 708,
+    "timeDay": 219,
+    "timeWeek": 234,
+    "timeMonth": 299,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2025-04-10": 16,
       "2025-03-29": 328,
@@ -131,8 +131,7 @@
       "2025-03-07": 655,
       "2025-03-04": 295,
       "2025-03-03": 1213,
-      "2025-03-02": 331,
-      "2025-02-23": 282
+      "2025-03-02": 331
     }
   }
 ]
