@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 659,
-    "timeDay": 492,
-    "timeWeek": 563,
-    "timeMonth": 511,
+    "time": 660,
+    "timeDay": 614,
+    "timeWeek": 582,
+    "timeMonth": 516,
     "timeYear": 643,
     "dailyMinutesDown": {
       "2025-04-14": 23
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 594,
-    "timeDay": 853,
-    "timeWeek": 599,
-    "timeMonth": 536,
+    "time": 593,
+    "timeDay": 480,
+    "timeWeek": 596,
+    "timeMonth": 524,
     "timeYear": 593,
     "dailyMinutesDown": {
       "2026-02-01": 15,
@@ -57,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 557,
-    "timeDay": 551,
-    "timeWeek": 539,
-    "timeMonth": 554,
+    "timeDay": 490,
+    "timeWeek": 542,
+    "timeMonth": 555,
     "timeYear": 557,
     "dailyMinutesDown": {}
   },
@@ -75,9 +75,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 556,
-    "timeDay": 485,
-    "timeWeek": 588,
-    "timeMonth": 554,
+    "timeDay": 470,
+    "timeWeek": 558,
+    "timeMonth": 555,
     "timeYear": 554,
     "dailyMinutesDown": {}
   },
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 874,
-    "timeDay": 499,
-    "timeWeek": 1924,
-    "timeMonth": 958,
-    "timeYear": 874,
+    "time": 891,
+    "timeDay": 6823,
+    "timeWeek": 2672,
+    "timeMonth": 1182,
+    "timeYear": 891,
     "dailyMinutesDown": {
       "2025-07-10": 59,
       "2025-04-15": 24
@@ -112,12 +112,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.37%",
-    "time": 745,
-    "timeDay": 230,
-    "timeWeek": 319,
-    "timeMonth": 273,
-    "timeYear": 604,
+    "uptimeYear": "99.60%",
+    "time": 754,
+    "timeDay": 213,
+    "timeWeek": 313,
+    "timeMonth": 274,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2025-04-10": 16,
       "2025-03-29": 328,
@@ -128,8 +128,7 @@
       "2025-03-17": 40,
       "2025-03-12": 194,
       "2025-03-08": 352,
-      "2025-03-07": 655,
-      "2025-03-04": 295
+      "2025-03-07": 655
     }
   }
 ]
