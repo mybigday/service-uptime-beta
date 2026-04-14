@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 651,
-    "timeDay": 437,
-    "timeWeek": 571,
-    "timeMonth": 560,
-    "timeYear": 633,
-    "dailyMinutesDown": {
-      "2025-04-14": 23
-    }
+    "time": 652,
+    "timeDay": 539,
+    "timeWeek": 584,
+    "timeMonth": 562,
+    "timeYear": 632,
+    "dailyMinutesDown": {}
   },
   {
     "name": "BRICKS Device BETA",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 585,
-    "timeDay": 409,
-    "timeWeek": 510,
-    "timeMonth": 531,
+    "timeDay": 538,
+    "timeWeek": 521,
+    "timeMonth": 534,
     "timeYear": 585,
     "dailyMinutesDown": {
       "2026-02-01": 15,
@@ -41,8 +39,7 @@
       "2026-01-30": 18,
       "2025-12-13": 40,
       "2025-07-18": 19,
-      "2025-04-15": 55,
-      "2025-04-14": 504
+      "2025-04-15": 55
     }
   },
   {
@@ -56,10 +53,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 551,
-    "timeDay": 430,
-    "timeWeek": 500,
-    "timeMonth": 494,
+    "time": 552,
+    "timeDay": 665,
+    "timeWeek": 544,
+    "timeMonth": 501,
     "timeYear": 552,
     "dailyMinutesDown": {}
   },
@@ -75,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 552,
-    "timeDay": 575,
-    "timeWeek": 516,
-    "timeMonth": 502,
-    "timeYear": 548,
+    "timeDay": 513,
+    "timeWeek": 538,
+    "timeMonth": 504,
+    "timeYear": 546,
     "dailyMinutesDown": {}
   },
   {
@@ -93,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 904,
-    "timeDay": 494,
-    "timeWeek": 684,
-    "timeMonth": 853,
+    "timeDay": 633,
+    "timeWeek": 710,
+    "timeMonth": 858,
     "timeYear": 914,
     "dailyMinutesDown": {
       "2025-07-10": 59,
@@ -111,12 +108,12 @@
     "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.06%",
-    "uptimeMonth": "96.40%",
+    "uptimeMonth": "98.07%",
     "uptimeYear": "99.65%",
     "time": 674,
-    "timeDay": 196,
-    "timeWeek": 248,
-    "timeMonth": 273,
+    "timeDay": 315,
+    "timeWeek": 260,
+    "timeMonth": 267,
     "timeYear": 295,
     "dailyMinutesDown": {
       "2026-04-11": 394,
