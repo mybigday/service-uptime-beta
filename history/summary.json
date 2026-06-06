@@ -4,30 +4,32 @@
     "url": "https://display-beta.bricks.tools/api/workspace-public-health-check",
     "icon": "https://icons.duckduckgo.com/ip3/display-beta.bricks.tools.ico",
     "slug": "bricks-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.35%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 633,
     "timeDay": 673,
     "timeWeek": 538,
     "timeMonth": 511,
     "timeYear": 568,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-06": 38
+    }
   },
   {
     "name": "BRICKS Device BETA",
     "url": "https://device-beta.bricks.tools/api/public-health-check",
     "icon": "https://icons.duckduckgo.com/ip3/device-beta.bricks.tools.ico",
     "slug": "bricks-device-beta",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
     "time": 577,
     "timeDay": 575,
     "timeWeek": 498,
@@ -38,7 +40,8 @@
       "2025-12-13": 40,
       "2026-01-30": 18,
       "2026-01-31": 66,
-      "2026-02-01": 15
+      "2026-02-01": 15,
+      "2026-06-06": 31
     }
   },
   {
@@ -46,47 +49,51 @@
     "url": "https://bank-beta.bricks.tools/api/not-found",
     "icon": "https://icons.duckduckgo.com/ip3/bank-beta.bricks.tools.ico",
     "slug": "data-bank-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 545,
     "timeDay": 349,
     "timeWeek": 423,
     "timeMonth": 471,
     "timeYear": 544,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-06": 24
+    }
   },
   {
     "name": "Media Flow BETA",
     "url": "https://media-beta.bricks.tools",
     "icon": "https://icons.duckduckgo.com/ip3/media-beta.bricks.tools.ico",
     "slug": "media-flow-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 545,
     "timeDay": 595,
     "timeWeek": 462,
     "timeMonth": 500,
     "timeYear": 538,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-06": 17
+    }
   },
   {
     "name": "Group (Legacy) BETA",
     "url": "https://group-beta.mybigday.com.tw",
     "icon": "https://icons.duckduckgo.com/ip3/group-beta.mybigday.com.tw.ico",
     "slug": "group-legacy-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 884,
     "timeDay": 502,
@@ -94,7 +101,8 @@
     "timeMonth": 712,
     "timeYear": 876,
     "dailyMinutesDown": {
-      "2025-07-10": 59
+      "2025-07-10": 59,
+      "2026-06-06": 10
     }
   },
   {
@@ -102,10 +110,10 @@
     "url": "https://activity-log-beta.bricks.tools/health",
     "icon": "https://icons.duckduckgo.com/ip3/activity-log-beta.bricks.tools.ico",
     "slug": "activity-log-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "96.63%",
     "uptimeYear": "99.36%",
     "time": 593,
@@ -126,7 +134,8 @@
       "2026-04-11": 394,
       "2026-05-02": 38,
       "2026-05-21": 561,
-      "2026-05-20": 915
+      "2026-05-20": 915,
+      "2026-06-06": 3
     }
   }
 ]
