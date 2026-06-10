@@ -1,7 +1,7 @@
 url: https://bank-beta.bricks.tools/api/not-found
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-06-10T17:39:02.486Z
+status: up
+code: 404
+responseTime: 486
+lastUpdated: 2026-06-10T18:17:54.214Z
 startTime: 2025-03-08T02:18:44.777Z
 generator: Upptime <https://github.com/upptime/upptime>
