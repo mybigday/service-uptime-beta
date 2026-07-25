@@ -4,13 +4,13 @@
     "url": "https://display-beta.bricks.tools/api/workspace-public-health-check",
     "icon": "https://icons.duckduckgo.com/ip3/display-beta.bricks.tools.ico",
     "slug": "bricks-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.97%",
-    "time": 615,
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.96%",
+    "time": 614,
     "timeDay": 877,
     "timeWeek": 580,
     "timeMonth": 572,
@@ -18,7 +18,8 @@
     "dailyMinutesDown": {
       "2026-06-06": 41,
       "2026-06-10": 53,
-      "2026-06-27": 76
+      "2026-06-27": 76,
+      "2026-07-25": 36
     }
   },
   {
@@ -26,11 +27,11 @@
     "url": "https://device-beta.bricks.tools/api/public-health-check",
     "icon": "https://icons.duckduckgo.com/ip3/device-beta.bricks.tools.ico",
     "slug": "bricks-device-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.94%",
     "time": 571,
     "timeDay": 660,
@@ -44,7 +45,8 @@
       "2026-02-01": 15,
       "2026-06-06": 34,
       "2026-06-10": 46,
-      "2026-06-27": 75
+      "2026-06-27": 75,
+      "2026-07-25": 29
     }
   },
   {
@@ -52,12 +54,12 @@
     "url": "https://bank-beta.bricks.tools/api/not-found",
     "icon": "https://icons.duckduckgo.com/ip3/bank-beta.bricks.tools.ico",
     "slug": "data-bank-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 541,
     "timeDay": 518,
     "timeWeek": 527,
@@ -65,7 +67,8 @@
     "timeYear": 538,
     "dailyMinutesDown": {
       "2026-06-06": 26,
-      "2026-06-10": 39
+      "2026-06-10": 39,
+      "2026-07-25": 22
     }
   },
   {
@@ -73,11 +76,11 @@
     "url": "https://media-beta.bricks.tools",
     "icon": "https://icons.duckduckgo.com/ip3/media-beta.bricks.tools.ico",
     "slug": "media-flow-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 541,
     "timeDay": 540,
@@ -86,7 +89,8 @@
     "timeYear": 536,
     "dailyMinutesDown": {
       "2026-06-06": 19,
-      "2026-06-10": 32
+      "2026-06-10": 32,
+      "2026-07-25": 15
     }
   },
   {
@@ -94,13 +98,13 @@
     "url": "https://group-beta.mybigday.com.tw",
     "icon": "https://icons.duckduckgo.com/ip3/group-beta.mybigday.com.tw.ico",
     "slug": "group-legacy-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "98.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.11%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "68.10%",
     "uptimeYear": "97.34%",
-    "time": 863,
+    "time": 864,
     "timeDay": 592,
     "timeWeek": 523,
     "timeMonth": 539,
@@ -117,7 +121,8 @@
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
-      "2026-06-30": 222
+      "2026-06-30": 222,
+      "2026-07-25": 7
     }
   },
   {
@@ -128,9 +133,9 @@
     "status": "down",
     "uptime": "98.83%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "64.18%",
-    "uptimeMonth": "91.76%",
-    "uptimeYear": "98.67%",
+    "uptimeWeek": "63.48%",
+    "uptimeMonth": "91.60%",
+    "uptimeYear": "98.66%",
     "time": 494,
     "timeDay": 279,
     "timeWeek": 219,
@@ -151,7 +156,7 @@
       "2026-05-21": 561,
       "2026-05-20": 915,
       "2026-06-10": 18,
-      "2026-07-25": 22,
+      "2026-07-25": 93,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 709
