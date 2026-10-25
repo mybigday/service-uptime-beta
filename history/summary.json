@@ -138,9 +138,9 @@
     "url": "https://activity-log-beta.bricks.tools/health",
     "icon": "https://icons.duckduckgo.com/ip3/activity-log-beta.bricks.tools.ico",
     "slug": "activity-log-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "98.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "97.14%",
@@ -174,7 +174,8 @@
       "2026-07-23": 1440,
       "2026-07-22": 709,
       "2026-09-03": 17,
-      "2026-10-23": 35
+      "2026-10-23": 35,
+      "2026-10-25": 0
     }
   }
 ]
