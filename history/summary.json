@@ -4,7 +4,7 @@
     "url": "https://display-beta.bricks.tools/api/workspace-public-health-check",
     "icon": "https://icons.duckduckgo.com/ip3/display-beta.bricks.tools.ico",
     "slug": "bricks-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
