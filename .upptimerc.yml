@@ -29,8 +29,10 @@ sites:
       - 404
     assignees:
       - jhen0409
-  - name: Group (Legacy) BETA
-    url: https://group-beta.mybigday.com.tw
+  - name: Group BETA
+    url: https://group-beta.bricks.tools/api
+    expectedStatusCodes:
+      - 404
     assignees:
       - jhen0409
   - name: Activity Log BETA
