@@ -108,13 +108,13 @@
     "url": "https://group-beta.mybigday.com.tw",
     "icon": "https://icons.duckduckgo.com/ip3/group-beta.mybigday.com.tw.ico",
     "slug": "group-legacy-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "98.43%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.34%",
-    "time": 798,
+    "time": 799,
     "timeDay": 516,
     "timeWeek": 799,
     "timeMonth": 605,
@@ -131,7 +131,8 @@
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
-      "2026-06-30": 222
+      "2026-06-30": 222,
+      "2026-11-19": 0
     }
   },
   {
